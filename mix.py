@@ -49,6 +49,6 @@ def checkpalindrome(number):
     
 
 
-userinput=int(input("Enter the Number :"))
-print(mix(userinput))
+enter=int(input("Enter the Number :"))
+print(mix(enter)) 
 
